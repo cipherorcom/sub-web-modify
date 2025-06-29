@@ -901,7 +901,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: this.getUrlParam() == "" ? "https://url.v1.mk" : this.getUrlParam(),
+        customBackend: this.getUrlParam() == "" ? "https://9f822cb6ff290074090508686fb3d07942b72a4b-3000.dstack-prod5.phala.network" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
         remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini",
         excludeRemarks: "",
