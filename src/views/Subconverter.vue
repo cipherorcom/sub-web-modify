@@ -494,6 +494,7 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io",
         },
         backendOptions: [
+          {value: "https://9f822cb6ff290074090508686fb3d07942b72a4b-3000.dstack-prod5.phala.network"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
